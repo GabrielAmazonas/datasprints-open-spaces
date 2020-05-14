@@ -68,7 +68,7 @@ The PySpark Job runs on AWS EMR, and the Data Pipeline is orchestrated by Apache
 
 In the UI, two DAG's should be available: 
 
- - songs_etl
+ - brazilian_deputies_etl
  - terminate_emr_clusters
 
 Turn them on and play with it.
